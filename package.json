@@ -1,0 +1,18 @@
+{
+  "name": "algo-solutions",
+  "version": "1.0.0",
+  "description": "Solutions of FreeCodeCamp Algorithm Questions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "DannyGlade",
+  "license": "ISC",
+  "devDependencies": {
+    "inquirer": "^9.0.0",
+    "nodemon": "^2.0.18"
+  }
+}
